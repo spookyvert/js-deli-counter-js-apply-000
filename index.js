@@ -22,7 +22,8 @@ function currentLine(katzDeliLine) {
     }
 }
 
-let n = 0
+
+let n = 0 
 
 function takeNumberAlt(katzDeliLine){
   n++
