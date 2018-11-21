@@ -2,7 +2,7 @@ function takeANumber(latestNumber, latestName) {
     return "Welcome, " + latestName + ". You are number " + latestNumber.push(latestName) + " in line."
 }
 
-var i = [3,3,3,3,] /
+
 function nowServing(katzDeliLine) {
 
     if (katzDeliLine.length === 0) {
